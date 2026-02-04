@@ -15,4 +15,8 @@
 
 ## 限制：
     1. 不要急于完成全部功能，完成前后端功能后需要进行测试，确保功能正常运行。只有测试通过后，才能继续进行下一步。
-    2. 测试图片使用：https://github.com/pytorch/hub/raw/master/images/dog.jpg
+    2. 擅长使用定义的 MCP 和 Skill 高质量开发。
+    3. 测试图片使用：https://github.com/pytorch/hub/raw/master/images/dog.jpg
+    4. 前端界面的设计使用专业的'UI Designer'Agent和'Frontend Architect'Agent，确保界面美观、用户友好。
+    5. 后端代码的编写使用专业的'Backend Architect'Agent，确保代码质量、性能优化。
+    6. 单元测试与集成测试使用专业的'API Test Pro'Agent，确保功能正常运行。
